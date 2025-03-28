@@ -1,0 +1,3 @@
+Report view creates beautiful graphs to show your client
+Table view helps with seeing the data in excel format 
+Model view visualizes the links between different tables
